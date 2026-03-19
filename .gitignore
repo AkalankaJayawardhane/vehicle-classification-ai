@@ -1,0 +1,17 @@
+# Ignore dataset folder
+Dataset/
+
+# Ignore all PNG images
+*.png
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments (just in case)
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
